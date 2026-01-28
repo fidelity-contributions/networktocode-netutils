@@ -1,0 +1,1 @@
+Fixed aruba_os running configuration command from "show running-configuration" to "show running-config" in the RUNNING_CONFIG_MAPPER.
